@@ -1,4 +1,4 @@
-# 🌸 Lyra API - AI Endpoint by Technova
+# 🌸 Lyra API - AI Endpoint by Tech Nova Group
 
 ![Powered by Lyra 1.0 Base](https://img.shields.io/badge/Model-Lyra%201.0%20Base-87cefa?style=flat-square&logo=sparkles&logoColor=white)
 ![Powered by Lyra 1.0 Prime](https://img.shields.io/badge/Model-Lyra%201.0%20Prime-b57edc?style=flat-square&logo=sparkles&logoColor=white)
